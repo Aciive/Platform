@@ -725,3 +725,247 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.17-14.35.48:516][998]LogSlate: Window 'Project Settings' being destroyed
 [2020.08.17-14.35.56:334][891]SourceControl: Source control is disabled
 [2020.08.17-14.35.59:901][279]LogSlate: Window 'Source Control Login' being destroyed
+[2020.08.17-15.33.32:190][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.17-15.33.40:534][632]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.17-15.33.40:556][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.08.17-15.33.40:592][632]LogSavePackage: Moving '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Saved/ThirdPersonExampleMapE46B8BFA465CB2E72E85B19E82980EF9.tmp' to '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.08.17-15.33.40:790][632]LogSavePackage: Moving '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Saved/ThirdPersonExampleMap_BuiltData9A3F55BE4EAC9BB6E68043B6DA5BBD60.tmp' to '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.08.17-15.33.40:798][632]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.17-15.33.40:798][632]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.17-15.33.40:798][632]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.08.17-15.33.45:860][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:860][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:860][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:860][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.33.45:861][204]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.34.04:613][204]LogSlate: Window 'Submit Files' being destroyed
+[2020.08.17-15.37.01:696][547]LogSlate: Window 'Submit Files' being destroyed
+[2020.08.17-15.37.13:494][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:495][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.13:603][179]EditorErrors: Warning: No assets to check in!
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineSky: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineSky' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/BasicShapes' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorMeshes/ColorCalibrator: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EditorMeshes/ColorCalibrator' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/MaterialLayerFunctions: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/MaterialLayerFunctions' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.21:823][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository at 'C:/Users/phili/Documents/Unreal Projects/Platform'
+[2020.08.17-15.37.24:326][835]SourceControl: Error: From https://github.com/Aciive/Platform
+[2020.08.17-15.37.24:326][835]SourceControl: Error:  * branch            HEAD       -> FETCH_HEAD
+[2020.08.17-15.37.24:326][835]SourceControl: Error: Rebasing (1/3)warning: Cannot merge binary files: Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset (HEAD vs. 7a541d8... Hello)
+[2020.08.17-15.37.24:326][835]SourceControl: Error: warning: Cannot merge binary files: Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap (HEAD vs. 7a541d8... Hello)
+[2020.08.17-15.37.24:326][835]SourceControl: Error: warning: Cannot merge binary files: Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset (HEAD vs. 7a541d8... Hello)
+[2020.08.17-15.37.24:326][835]SourceControl: Error: warning: Cannot merge binary files: Content/StarterContent/Architecture/Floor_400x400.uasset (HEAD vs. 7a541d8... Hello)
+[2020.08.17-15.37.24:326][835]SourceControl: Error: error: could not apply 7a541d8... Hello
+[2020.08.17-15.37.24:326][835]SourceControl: Error: Resolve all conflicts manually, mark them as resolved with
+[2020.08.17-15.37.24:326][835]SourceControl: Error: "git add/rm <conflicted_files>", then run "git rebase --continue".
+[2020.08.17-15.37.24:327][835]SourceControl: Error: You can instead skip this commit: run "git rebase --skip".
+[2020.08.17-15.37.24:327][835]SourceControl: Error: To abort and get back to the state before "git rebase", run "git rebase --abort".
+[2020.08.17-15.37.24:327][835]SourceControl: Error: Could not apply 7a541d8... Hello
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Platform.uproject
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Platform.uproject
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Content/StarterContent/Architecture/Floor_400x400.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Content/StarterContent/Architecture/Floor_400x400.uasset
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Config/DefaultGame.ini
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Config/DefaultGame.ini
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in Config/DefaultEngine.ini
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging Config/DefaultEngine.ini
+[2020.08.17-15.37.24:327][835]SourceControl: CONFLICT (add/add): Merge conflict in .gitignore
+[2020.08.17-15.37.24:327][835]SourceControl: Auto-merging .gitignore
+[2020.08.17-15.37.24:330][835]LogContentBrowser: Syncing 6 path(s):
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Max_Charachter/Max_Animation_BP
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Max_Charachter/Max_Idle_Move
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Materials/BluePlatform
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Materials/GroundPlatform
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Materials/RedPlatform
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Materials/WallMaterial
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Geometry/Meshes/CubeMaterial
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Geometry/Meshes/1M_Cube_Chamfer
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/Geometry/Meshes/TemplateFloor
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/RampMaterial
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Bump_StaticMesh
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/LeftArm_StaticMesh
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/Ramp_StaticMesh
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPerson/Meshes/RightArm_StaticMesh
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Max_Charachter/Jump__2_
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Max_Charachter/Jump__1__Montage
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Max_Charachter/Max_BP
+[2020.08.17-15.37.24:330][835]LogContentBrowser: 	 - /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode
+[2020.08.17-15.37.24:330][835]LightingResults: New page: Lighting Build
+[2020.08.17-15.37.24:335][835]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.37.24:335][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.37.24:336][835]MapCheck: New page: Map Check
+[2020.08.17-15.37.24:336][835]LightingResults: New page: Lighting Build
+[2020.08.17-15.37.24:347][835]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FAC3073E00), frame # 381835
+[2020.08.17-15.37.24:347][835]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FAD0040F40), frame # 381835
+[2020.08.17-15.37.24:348][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.17-15.37.24:352][835]LogAIModule: Creating AISystem for world Untitled
+[2020.08.17-15.37.24:352][835]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FAF094BE00), frame # 381835
+[2020.08.17-15.37.24:352][835]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FACFFE96C0), frame # 381835
+[2020.08.17-15.37.24:353][835]LoadErrors: New page: New Map
+[2020.08.17-15.37.24:355][835]LogUObjectGlobals: Reloading 19 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Max_Charachter/Max_Idle_Move
+	Asset Name: /Game/ThirdPersonBP/Max_Charachter/Max_Animation_BP
+	Asset Name: /Game/Materials/BluePlatform
+	Asset Name: /Game/Materials/GroundPlatform
+	Asset Name: /Game/Materials/RedPlatform
+	Asset Name: /Game/Materials/WallMaterial
+	Asset Name: /Game/Geometry/Meshes/CubeMaterial
+	Asset Name: /Game/Geometry/Meshes/1M_Cube_Chamfer
+	Asset Name: /Game/Geometry/Meshes/TemplateFloor
+	Asset Name: /Game/ThirdPerson/Meshes/RampMaterial
+[2020.08.17-15.37.24:380][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:382][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:383][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Orc_Idle.Orc_Idle Referenced by Max_Idle_Move
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Orc_Idle': Can't find file.
+[2020.08.17-15.37.24:383][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:384][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Running__1_.Running__1_ Referenced by Max_Idle_Move
+[2020.08.17-15.37.24:384][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Running__1_': Can't find file.
+[2020.08.17-15.37.24:384][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:384][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton.Ch19_nonPBR_Skeleton Referenced by Max_Idle_Move
+[2020.08.17-15.37.24:384][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Idle_Move.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:384][835]LoadErrors: Error: The BlendSpace  Max_Idle_Move  has sample with no animation. Recommend to remove sample point or set new animation.
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:390][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton.Ch19_nonPBR_Skeleton Referenced by Max_Animation_BP_C
+[2020.08.17-15.37.24:390][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:391][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton.Ch19_nonPBR_Skeleton Referenced by Max_Animation_BP
+[2020.08.17-15.37.24:392][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_Animation_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.24:394][835]LogBlueprint: Error: [Compiler Max_Animation_BP] Max_Animation_BP  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2020.08.17-15.37.24:480][835]LogBlueprint: Error: [Compiler Max_Animation_BP] Max_Animation_BP  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2020.08.17-15.37.24:494][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.17-15.37.24:613][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.08.17-15.37.24:698][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.17-15.37.24:811][835]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2020.08.17-15.37.24:818][835]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/1M_Cube_Chamfer_DEADPACKAGE_9.1M_Cube_Chamfer
+[2020.08.17-15.37.24:824][835]LogStaticMesh: Building static mesh TemplateFloor...
+[2020.08.17-15.37.24:824][835]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2020.08.17-15.37.24:836][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.17-15.37.24:917][835]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2020.08.17-15.37.24:919][835]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2020.08.17-15.37.24:923][835]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2020.08.17-15.37.24:926][835]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2020.08.17-15.37.24:930][835]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2020.08.17-15.37.24:933][835]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2020.08.17-15.37.24:937][835]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2020.08.17-15.37.24:940][835]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2020.08.17-15.37.24:944][835]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2020.08.17-15.37.24:947][835]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2020.08.17-15.37.24:958][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.08.17-15.37.25:078][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.08.17-15.37.25:164][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.17-15.37.25:166][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:167][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:167][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:167][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:167][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:167][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton.Ch19_nonPBR_Skeleton Referenced by Jump__2_
+[2020.08.17-15.37.25:167][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__2_.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:254][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.17-15.37.25:255][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:255][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:255][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:255][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:255][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:255][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton.Ch19_nonPBR_Skeleton Referenced by Jump__1__Montage
+[2020.08.17-15.37.25:256][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Jump__1__Montage.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR_Skeleton': Can't find file.
+[2020.08.17-15.37.25:257][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:257][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:257][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:257][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:257][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:258][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:258][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:258][835]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:258][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:258][835]LoadErrors: Failed to load /Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR.Ch19_nonPBR Referenced by Default__Max_BP_C
+[2020.08.17-15.37.25:258][835]LogLinker: Warning: While loading '../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Max_Charachter/Max_BP.uasset' failed to load '/Game/ThirdPersonBP/Max_Charachter/Ch19_nonPBR': Can't find file.
+[2020.08.17-15.37.25:365][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.17-15.37.25:456][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.17-15.37.25:510][835]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.08.17-15.37.25:521][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.17-15.37.25:522][835]Cmd: MAP LOAD FILE="../../../../../../Users/phili/Documents/Unreal Projects/Platform/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.17-15.37.25:522][835]LightingResults: New page: Lighting Build
+[2020.08.17-15.37.25:522][835]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.08.17-15.37.25:522][835]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.17-15.37.25:522][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.17-15.37.25:522][835]MapCheck: New page: Map Check
+[2020.08.17-15.37.25:522][835]LightingResults: New page: Lighting Build
+[2020.08.17-15.37.25:531][835]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001FACFFE96C0), frame # 381835
+[2020.08.17-15.37.25:531][835]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001FAF094BE00), frame # 381835
+[2020.08.17-15.37.25:532][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.08.17-15.37.25:536][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.17-15.37.25:536][835]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.08.17-15.37.25:536][835]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001FA8BC63600), frame # 381835
+[2020.08.17-15.37.25:536][835]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001FAF000A200), frame # 381835
+[2020.08.17-15.37.25:548][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.17-15.37.25:573][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.17-15.37.25:573][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2020.08.17-15.37.25:573][835]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.051
